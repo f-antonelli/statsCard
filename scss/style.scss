@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+
+@import "settings/colors";
+@import "components/card";
+@import "components/mQ";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    color: $white;
+}
+
+body{
+    background-color: $darkblue-BG;
+}
